@@ -1,7 +1,7 @@
 ---
 title: "Geography 176A Lab 1"
 subtitle: "Meet R, RMarkdown, & Github"
-author: Mike Johnson
+author: zijie wang
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   html_document:
@@ -19,7 +19,7 @@ output:
 
 1. Read this document in both knit and raw Rmd format to review Rmarkdown syntax.
 2. Change the author in the YML to your name
-2. Modify the city threshold to 100,000 (no comma!!)
+2. Modify the city threshold to 100000 (no comma!!)
 3. Re-knit the document
 4. From the knit document, right click on the final map image and save it to the `img` directory.
 5. Push your changes back to your repo
